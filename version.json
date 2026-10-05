@@ -1,10 +1,10 @@
 {
-  "version": "0.2.9",
-  "release_date": "2026-09-29",
-  "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.9/FMS_SUPPLY_v0.2.9.zip",
+  "version": "0.3.0",
+  "release_date": "2026-10-05",
+  "download_url": "https://github.com/J7sychologist/LumiVectra_releases/releases/download/v0.3.0/LumiVectra_v0.3.0.zip",
   "mirrors": [],
-  "sha256": "9DF6D6F0FFE998AEB38DDC06245330AEDCDD5F422EFD77F57106E9BACE3C2544",
-  "changelog": "Тестовая версия для проверки системы автообновления.",
+  "sha256": "35F8041553571651F42F1E0D9A00B1BBFFD53389401E91CE7F478112EEE3B131",
+  "changelog": "### Added\n\n- Первый релиз под брендом LumiVectra.\n- Проприетарная лицензия (`LICENSE`).\n- Список сторонних компонентов и их лицензий (`NOTICE`).\n- Удаление пользовательских данных при деинсталляции\n  (`%APPDATA%\\LumiVectra` и реестр `HKCU\\Software\\Sizasko\\LumiVectra`).\n\n### Changed\n\n- **Ребрендинг:** FMS_SUPPLY → LumiVectra. Все пути, репозитории,\n  настройки и имена файлов обновлены.\n- Имя exe: `FMS_SUPPLY.exe` → `LumiVectra.exe`.\n- Папка установки: `%LOCALAPPDATA%\\Programs\\LumiVectra\\`.\n- QSettings: `Sizasko/LumiVectra`.\n- Публичный и приватный репозитории переименованы.\n\n### Fixed\n\n- Корректное определение лаунчера `LumiVectra.exe` в Nuitka-сборке\n  (чинит автообновление).\n- Исключены `matplotlib.tests` и `matplotlib.testing` из сборки.\n\n### Note\n\n- При переходе с FMS_SUPPLY 0.2.9 на LumiVectra 0.3.0 требуется\n  ручная установка нового установщика. Автообновление со старой\n  версии не сработает: сменился репозиторий и имя продукта.",
   "mandatory": false,
-  "min_version": "0.2.8"
+  "min_version": ""
 }
