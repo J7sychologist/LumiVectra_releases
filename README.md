@@ -85,7 +85,7 @@ Windows 10/11 (x64), 4 ГБ ОЗУ, 200 МБ на диске.
 
 ## Контакты
 
-**Автор:** Сизасько В.
+**Автор:** Сизаско В.
 **E-mail:** [VSizasko@sfu-kras.ru](mailto:VSizasko@sfu-kras.ru)
 **Репозиторий:** [github.com/J7sychologist/LumiVectra_releases](https://github.com/J7sychologist/LumiVectra_releases)
 
