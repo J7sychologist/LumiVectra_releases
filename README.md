@@ -1,4 +1,12 @@
-# LumiVectra
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="docs/logo_dark.png">
+    <source media="(prefers-color-scheme: light)"
+            srcset="docs/logo_light.png">
+    <img alt="LumiVectra" src="docs/logo_dark.png" width="560">
+  </picture>
+</p>
 
 **Интерактивная образовательная платформа** для уроков физики и математики.
 Набор визуализаций, демонстрирующих физические и математические модели
