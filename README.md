@@ -98,6 +98,3 @@ Windows 10/11 (x64), 4 ГБ ОЗУ, 200 МБ на диске.
 **Репозиторий:** [github.com/J7sychologist/LumiVectra_releases](https://github.com/J7sychologist/LumiVectra_releases)
 
 Этот репозиторий ранее назывался FMS_SUPPLY
-
-По вопросам сотрудничества, использования в образовательных
-организациях и коммерческого лицензирования — пишите на e-mail.
